@@ -1,0 +1,15 @@
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\appsettings.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\StudentHouse.deps.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\StudentHouse.runtimeconfig.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\StudentHouse.runtimeconfig.dev.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\StudentHouse.dll
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\StudentHouse.pdb
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.csproj.CoreCompileInputs.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.RazorAssemblyInfo.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.RazorAssemblyInfo.cs
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.AssemblyInfoInputs.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.AssemblyInfo.cs
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.RazorTargetAssemblyInfo.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.dll
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.pdb
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\StudentHouse.csprojAssemblyReference.cache

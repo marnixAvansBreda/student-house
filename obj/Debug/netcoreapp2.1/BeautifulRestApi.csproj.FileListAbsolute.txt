@@ -1,0 +1,14 @@
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\appsettings.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\BeautifulRestApi.deps.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\BeautifulRestApi.runtimeconfig.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\BeautifulRestApi.runtimeconfig.dev.json
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\BeautifulRestApi.dll
+C:\avans\2.1\soea2\StudentHouse\src\bin\Debug\netcoreapp2.1\BeautifulRestApi.pdb
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.csproj.CoreCompileInputs.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.RazorAssemblyInfo.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.RazorAssemblyInfo.cs
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.AssemblyInfoInputs.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.AssemblyInfo.cs
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.RazorTargetAssemblyInfo.cache
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.dll
+C:\avans\2.1\soea2\StudentHouse\src\obj\Debug\netcoreapp2.1\BeautifulRestApi.pdb
